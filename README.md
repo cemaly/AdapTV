@@ -20,17 +20,17 @@ The repository is organized as follows:
 
 - `data/`: Contains the dataset used for training the icon classification models.
 
-- `trained_models/`: Houses pre-trained machine learning models for icon classification.
-
-- `utils/`: Includes useful scripts and utilities for various tasks.
-
-- `model_trainings/`: Contains scripts for training the top-2-performing models.
+- `images/`: Contains images that were used in the paper.
 
 - `model_tests/`: Provides scripts for testing the top 2 pre-trained models.
 
-- `scrapers/`: Contains scripts for finding and downloading images from Google and Iconfinder.
+- `model_trainings/`: Contains scripts for training the top-2-performing models.
 
-- `images/`: Contains images that were used in the paper.
+- `scraper/`: Contains scripts for finding and downloading images from Google and Iconfinder.
+
+- `trained_models/`: Houses pre-trained machine learning models for icon classification.
+
+- `utils/`: Includes useful scripts and utilities for various tasks.
 
 - `resnet_single.py`: A script located in the root directory that can be used to classify a given image passed as a command-line argument using the best-performing model.
 
