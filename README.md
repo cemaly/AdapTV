@@ -20,21 +20,25 @@ The repository is organized as follows:
 
 - `data/`: Contains the dataset used for training the icon classification models.
 
-- `trained_models/`: Houses pretrained machine learning models for icon classification.
+- `trained_models/`: Houses pre-trained machine learning models for icon classification.
 
 - `utils/`: Includes useful scripts and utilities for various tasks.
 
 - `model_trainings/`: Contains scripts for training the top-2-performing models.
 
-- `model_tests/`: Provides scripts for testing the top 2 pretrained models.
+- `model_tests/`: Provides scripts for testing the top 2 pre-trained models.
 
-- `resnet_single.py`: A script located in the root directory that can be used to classify a given image passed as a command-line argument using the best performing model.
+- `scrapers/`: Contains scripts for finding and downloading images from Google and Iconfinder.
+
+- `images/`: Contains images that were used in the paper.
+
+- `resnet_single.py`: A script located in the root directory that can be used to classify a given image passed as a command-line argument using the best-performing model.
 
 ## Usage
 
 ### Icon Classification
 
-- The pretrained models in the `trained_models/` folder can be used for icon classification tasks.
+- The pre-trained models in the `trained_models/` folder can be used for icon classification tasks.
 
 - To test the best-performing model, you can provide the path of an icon to be predicted as a command-line argument to the [resnet_single.py script](https://github.com/cemaly/AdapTV/blob/main/resnet_single.py).
 
