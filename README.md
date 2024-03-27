@@ -46,7 +46,7 @@ The repository is organized as follows:
 
 Please cite the following papers when referencing this work:
 
-1. [*AdapTV+: Enhancing Model-Based Test Adaptation for Smart TVs through Icon Recognition*.](#)
+1. [*AdapTV+: Enhancing Model-Based Test Adaptation for Smart TVs through Icon Recognition*.](https://ieeexplore.ieee.org/abstract/document/10356473)
 
 2. [M. Y. Azimi, C. C. Elgun, A. Firat, F. Erata and C. Yilmaz, "AdapTV: A Model-Based Test Adaptation Approach for End-to-End User Interface Testing of Smart TVs," in IEEE Access, vol. 11, pp. 32095-32118, 2023, doi: 10.1109/ACCESS.2023.3262746.](https://ieeexplore.ieee.org/document/10083126)
 
